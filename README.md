@@ -12,6 +12,7 @@ Adventure Works is encountering several critical challenges, including:
 - Limited Customer Engagement
 
 ### Data Source
+Primary dataset used for this analysis is the "Fact_Internet_Sales_New.xlsx" file,containing detailed information about each sale made by the company.
 
 
 ### Tools
