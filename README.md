@@ -27,7 +27,7 @@ In the initial data preparation phase,we performed the following tasks:
 1. Data Loading And Inspection
 2. Handling Missing Values
 3. Data cleaning and formatting
-  -  Removing irrelevant rows and redundant columns from the dataset.
+  - Removing irrelevant rows and redundant columns from the dataset.
 Renaming tables and columns to meaningful column names.
 Merging redundant tables.
 Convert dates to the appropriate data type.
@@ -38,6 +38,20 @@ EDA involved exploring the sales data to answer key questions,such as:
 - What is the overall sales trend?
 - Which products are top sellers?
 - What are the peak sales periods?
+
+### Result
+
+
+
+### Recommendations
+Based on the analysis, we offer the following recommendations to drive Adventure Works towards data-driven excellence:
+- Segmented Marketing : Implement targeted marketing campaigns tailored to specific customer segments identified as high-potential like Australia and the United States of America.
+- Product Strategy : Reevaluate the performance of underperforming products and consider product improvements or discontinuation.
+Market Expansion : Explore expansion opportunities in identified untapped markets and regions.
+- Pricing : Implement a standard pricing for all products. The price of products should be higher than the cost price.
+ Customer - Centric Approach : Prioritize customer satisfaction and retention strategies based on customer insights.
+
+
 
 
 
